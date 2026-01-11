@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "でしょましょ",
+  "base_artist": "米津玄師",
+  "createdAt": "2026-01-11T16:11:04.635701Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "でしょましょ",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/01_でしょましょ_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "でしょましょ",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/02_でしょましょ_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "でしょましょ",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/03_でしょましょ_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "でしょましょ - Deshomasho",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/04_でしょましょ_-_Deshomasho_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "でしょましょ",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/05_でしょましょ_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "でしょましょ",
+      "artist": "米津玄师",
+      "has_synced": true,
+      "path": "select/06_でしょましょ_米津玄师.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "でしょましょ",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_でしょましょ_米津玄師.txt"
+    }
+  ]
+}
